@@ -2,12 +2,18 @@
 
 A plugin for Vuepress that appends a copy button to every instance of a given selector (defaults to `div[class*="language-"] pre`)
 
+##### Forked from [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy)
+
+### Updates
+Updated the Svg icon, position, color and size. <br/>
+Demo: [xpresserjs.com](http://xpresserjs.com)
+
 ## Installation
 
 ```
-$ npm install vuepress-plugin-code-copy
+$ npm install https://github.com/trapcodeio/vuepress-plugin-code-copy --save
 # OR
-$ yarn add vuepress-plugin-code-copy
+$ yarn add https://github.com/trapcodeio/vuepress-plugin-code-copy --dev
 ```
 
 ## Usage
