@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/znicholasbrown/vuepress-plugin-code-copy"
+        "url": "https://github.com/trapcodeio/vuepress-plugin-code-copy"
     },
     "keywords": [
         "vuepress",
@@ -18,12 +18,12 @@
         "vuepress plugin",
         "plugin"
     ],
-    "author": "Nicholas Brown",
+    "author": "trapcodeio",
     "license": "GPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/znicholasbrown/vuepress-plugin-code-copy/issues"
+        "url": "https://github.com/trapcodeio/vuepress-plugin-code-copy/issues"
     },
-    "homepage": "https://github.com/znicholasbrown/vuepress-plugin-code-copy#readme",
+    "homepage": "https://github.com/trapcodeio/vuepress-plugin-code-copy#readme",
     "prettier": {
         "trailingComma": "none",
         "tabWidth": 4,
